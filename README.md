@@ -128,7 +128,6 @@ A presença da variável derivada has_cancelled no Top 6 confirma a relevância 
 
 ## Autor
 Leandro Julián Giménez
-Data de Entrega: 04/08/2026
 
 
 ## Contato
